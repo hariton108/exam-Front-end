@@ -1,0 +1,17 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "vlad",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^2.3.2"
+  }
+}

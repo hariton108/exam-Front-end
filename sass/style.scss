@@ -1,0 +1,15 @@
+@import 'src/fonts.scss';
+@import 'src/variables.scss';
+
+@import 'src/mobile';
+
+
+@media screen and (min-width: 768px) {
+
+	@import 'src/tablet';	
+}
+
+@media screen and (min-width: 940px) {
+
+	@import 'src/desktop';	
+}
